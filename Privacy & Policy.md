@@ -34,4 +34,4 @@ https://github.com/YangDai2003/Multi-Calculator-Android/blob/1796346f5eeafca8eee
 
  <hr style="border:1px solid gray">
 
-If you have any questions about this Policy or personal information protection, you can send your written questions, opinions, or suggestions to the following E-Mail address: dy15800837435@gmail.com
+If you have any questions about this Policy or personal information protection, you can send your written questions, opinions, or suggestions to the following E-Mail address: cxnhelpcentre@gmail.com
