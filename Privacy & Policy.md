@@ -19,7 +19,6 @@ Third-party SDKs will be explained in the following table:
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/YangDai2003/Multi-Calculator-Android/blob/1796346f5eeafca8eeeb2ec2af245eff02b504b2/app/src/main/AndroidManifest.xml#L6-L11
 <br/>
 
 
