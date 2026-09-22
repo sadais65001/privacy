@@ -1,4 +1,4 @@
-## Privacy Policy of Multi-Calculator
+## Privacy Policy
 
 This is an open source Android app developed by Yang Dai. The source code is available on GitHub under the Apache License (2.0 or later).
 
